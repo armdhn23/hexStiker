@@ -21,4 +21,4 @@ sticker(my_stiker ,package="My_System", p_size=17, s_x=1, s_y=.78, s_width=1.3, 
         filename="img/my_stiker.png")
 
 ```
-![my_stiker](img/yusuf1.png)
+<img src="img/yusuf1.png" width="250" title="hover text">
